@@ -1,4 +1,4 @@
-# prj1
+# prj1  task:
 
 This is task file for prj1 project.
 You have to setup choosed aplication set for prj1 following next rules:
